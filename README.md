@@ -2,6 +2,7 @@ mvn jetty:run
 
 http://localhost:8080/?language=en&text=En%20verkst%C3%A4llande%20direkt%C3%B6r,%20p%C3%A5%20svenska%20vanligen%20f%C3%B6rkortat%20VD,%20%C3%A4r%20den%20person%20som%20ansvarar%20inf%C3%B6r%20styrelsen%20f%C3%B6r%20den%20l%C3%B6pande%20f%C3%B6rvaltningen%20i%20ett%20aktiebolag.%20Den%20verkst%C3%A4llande%20direkt%C3%B6ren%20tills%C3%A4tts%20av%20styrelsen%20och%20ansvarar%20f%C3%B6r%20bolagets%20l%C3%B6pande%20f%C3%B6rvaltning.%20En%20verkst%C3%A4llande%20direkt%C3%B6r%20har%20enligt%20lag%20r%C3%A4tt%20att%20besluta%20om%20l%C3%B6pande%20f%C3%B6rvaltnings%C3%A5tg%C3%A4rder.%20I%20%C3%B6vrigt%20%C3%A4r%20det%20styrelsen%20som%20avg%C3%B6r%20vilken%20beslutander%C3%A4tt%20den%20verkst%C3%A4llande%20direkt%C3%B6ren%20skall%20ha.%20Detta%20beskrivs%20i%20bolagets%20arbetsordning.%20Den%20verkst%C3%A4llande%20direkt%C3%B6ren%20har%20ett%20stort%20ansvar%20f%C3%B6r%20bolaget%20och%20har%20d%C3%A4rf%C3%B6r%20lagenlig%20r%C3%A4tt%20att%20deltaga%20p%C3%A5%20styrelsem%C3%B6ten%20(f%C3%B6rutom%20vid%20handl%C3%A4ggning%20av%20vissa%20fr%C3%A5gor,%20som%20r%C3%B6r%20den%20verkst%C3%A4llande%20direkt%C3%B6ren%20sj%C3%A4lv,%20som%20till%20exempel%20l%C3%B6n%20eller%20annan%20ers%C3%A4ttning).%20En%20verkst%C3%A4llande%20direkt%C3%B6r%20har%20r%C3%A4tt%20att%20f%C3%A5%20avvikande%20uppfattning%20noterad%20till%20protokollet%20%C3%A4ven%20om%20denne%20inte%20sitter%20i%20styrelsen.
 
+```json
 [ {
   "text" : "En verkställande direktör, på svenska vanligen förkortat VD, är den person som ansvarar inför styrelsen för den löpande förvaltningen i ett aktiebolag.",
   "startOffset" : 0,
@@ -45,4 +46,5 @@ http://localhost:8080/?language=en&text=En%20verkst%C3%A4llande%20direkt%C3%B6r,
   "type" : null,
   "probability" : 0.957060179766667
 } ]
+```
 
